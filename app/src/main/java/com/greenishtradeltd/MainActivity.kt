@@ -1,4 +1,4 @@
-package com.example.greenishtradeltd
+package com.greenishtradeltd
 
 import android.annotation.SuppressLint
 import android.content.Intent
